@@ -19,6 +19,10 @@ import org.springframework.web.multipart.MultipartFile;
 import java.io.IOException;
 
 /**
+ * weiye ceshi
+ */
+
+/**
  * Created by winterchen on 2018/5/1.
  */
 @Component
